@@ -8,3 +8,5 @@ class Person :
 
 odis = Person('abol' , 18)
 odis.eat()
+
+pesron2 = Person('ava' , 18)
